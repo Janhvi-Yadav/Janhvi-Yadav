@@ -15,30 +15,30 @@
 I enjoy solving problems with Python and turning ideas into real-world apps 🐍🚀
 
 ---
-
-## 🌐 Connect With Me
+## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/janhviyadav" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:janhviyadav1274@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/janhvi_1274">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/2301641720054_A">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://linkedin.com/in/janhviyadav">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://github.com/Janhvi-Yadav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:janhviyadav1274@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://leetcode.com/u/janhvi_1274">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/2301641720054_A">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="45"/>
 </a>
 </p>
+
 
 ---
 
